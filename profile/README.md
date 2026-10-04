@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/plexavo-labs-logo.png" alt="Plexavo Labs" width="420">
+</p>
+
 # Plexavo Labs
 
 **Security tools for developers, startups, and the systems they build.**
